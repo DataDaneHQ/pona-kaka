@@ -40,7 +40,7 @@ The Pona Kakā initiative is focused on improving the lives of Māori individual
 
 5. **Quantitative Data Analysis with Python:** Created, prepared, and analyzed a CSV file using Python to compute descriptive statistics, identify trends, and generate visualizations that highlight key insights from the data.
 
-6. [**Executive Report Creation and Presentation:**](https://www.canva.com/design/DAGQsX91AYM/H1cy7qOmBqp8JBitKbL0ag/view?utm_content=DAGQsX91AYM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf6ede6c9c7) Synthesized qualitative and quantitative findings into a cohesive presentation, designed in Canva. This excutive report effectively communicates the project's impact on the Māori community, ensuring clarity and accessibility for non-technical stakeholders.
+6. **Executive Report Creation and Presentation:** Synthesized qualitative and quantitative findings into a cohesive presentation, designed in Canva. This excutive report effectively communicates the project's impact on the Māori community, ensuring clarity and accessibility for non-technical stakeholders.
 
 <br>
 
