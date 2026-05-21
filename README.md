@@ -18,7 +18,7 @@ I conducted a mixed-methods analysis combining thematic review of qualitative in
 
 <br>
 
-Deliverables
+## Deliverables
 
 **1. Project Workflow Outline**  
 Developed a detailed document outlining the project's objectives, proposed workflow, and key deliverables — a shared roadmap that aligned expectations between analyst and project lead before any analysis began.
