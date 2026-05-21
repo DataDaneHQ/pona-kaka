@@ -1,53 +1,49 @@
-# Pona Kakā Data Analysis Project
-<br>
+![Readme Banner](Images/pona_kaka_banner.png)
 
-![Canva Presentation Home Page](Images/Canva_Presentation_Home_Page.png)
-
-***Please Note:*** *The final report has been submitted to the funder, and I am now permitted to share the findings of my analysis. To uphold strict privacy protocols, interview transcripts, Excel spreadsheets, and Python notebooks remain confidential. Only the final Canva presentation is available for public viewing.*
+*How do you measure the impact of a health programme on a community that mainstream research tools weren't designed to serve?*
 
 <br>
 
-**Welcome to the Pona Kakā Data Analysis Repository**
+## Overview
 
-This repository contains my data analysis for the Pona Kakā Initiative, a culturally relevant intervention aimed at managing arthritis within Māori communities. Conducted on behalf of the Waikare Community Development and Research Trust and funded by the Health Research Council of New Zealand (HRCNZ), this project involved analyzing both qualitative and quantitative data to uncover insights into participants' experiences, health outcomes, and the overall impact of the program.
+The Waikare Community Development and Research Trust needed to understand whether their Pona Kakā initiative was working — and why. The programme provided holistic, culturally grounded arthritis intervention for Māori communities, funded by the Health Research Council of New Zealand (HRCNZ). The data existed — interview transcripts, participant responses, health outcomes — but it needed someone to make sense of it in a way that respected both the numbers and the people behind them.
 
-<br>
+I conducted a mixed-methods analysis combining thematic review of qualitative interview data with quantitative descriptive statistics and visualisation. Findings were synthesised progressively — from an initial insights report delivered early to guide the Trust's decision-making, through to a final executive presentation communicating the full picture to both technical and non-technical stakeholders.
 
-**Project Overview**
+**The result:** A complete analysis of participant experiences, pain management outcomes, and programme impact — delivered in a format the Trust could use immediately to refine intervention strategies and strengthen their case for ongoing funding and programme expansion.
 
-The Pona Kakā initiative is focused on improving the lives of Māori individuals with arthritis through holistic health practices and community engagement. This analysis supports the initiative by providing actionable insights from the participant data gathered through interviews, helping guide future decisions and program improvements.
+**Tools:** Python · Pandas · MS Excel · Qualitative Thematic Analysis · Canva
 
-<br>
-
-**Tools & Technologies Used**
-
-* MS Word
-* MS Excel
-* Python and Jupyter Notebook
-* Canva
+---
 
 <br>
 
-**Tasks and Deliverables**
+Deliverables
 
-1. **Project Workflow Outline:** Developed a detailed Word document outlining the project's objectives, proposed workflow, and key deliverables, serving as a roadmap for the analysis process.
+**1. Project Workflow Outline**  
+Developed a detailed document outlining the project's objectives, proposed workflow, and key deliverables — a shared roadmap that aligned expectations between analyst and project lead before any analysis began.
 
-2. **Qualitative Data Analysis:** Conducted an in-depth review of interview transcripts to extract participants' experiences, identifying key themes and converting them into structured, quantifiable insights for further analysis.
+**2. Qualitative Data Analysis**  
+Conducted in-depth thematic review of interview transcripts to extract participant experiences, identifying key themes and converting qualitative responses into structured, quantifiable data for further analysis.
 
-3. **Data Categorization and Summarization:** Utilized Excel to systematically organize interview data by categorizing responses into relevant themes such as pain duration and treatment types, creating a clear and comprehensive dataset for analysis.
+**3. Data Categorisation and Summarisation**  
+Organised interview data in Excel by categorising responses into relevant themes — pain duration, treatment types, programme engagement — creating a clean, analysis-ready dataset from raw qualitative input.
 
-4. **Initial Summary of Insights Report:** Created and delivered an Initial Summary of Insights Report for the project lead, summarizing key findings and highlighting early themes. This report provided a preliminary overview of the data to guide further analysis and decision-making.
+**4. Initial Summary of Insights Report**  
+Delivered an early-stage findings report to the project lead, summarising key themes and providing a preliminary overview to guide subsequent analysis and decision-making before the full work was complete.
 
-5. **Quantitative Data Analysis with Python:** Created, prepared, and analyzed a CSV file using Python to compute descriptive statistics, identify trends, and generate visualizations that highlight key insights from the data.
+**5. Quantitative Analysis with Python**  
+Built and analysed a structured CSV dataset using Python — computing descriptive statistics, identifying trends, and generating visualisations that translated participant health data into clear, actionable insights.
 
-6. **Executive Report Creation and Presentation:** Synthesized qualitative and quantitative findings into a cohesive presentation, designed in Canva. This excutive report effectively communicates the project's impact on the Māori community, ensuring clarity and accessibility for non-technical stakeholders.
+**6. Executive Report and Presentation**  
+Synthesised all qualitative and quantitative findings into a cohesive executive presentation designed in Canva — communicating the programme's impact on the Māori community in a format accessible to non-technical stakeholders and funding bodies.
+
+> *All project materials remain confidential. Findings are unable to be shared at this time.*
+
+---
 
 <br>
 
-**Conclusion**
-
-The Pona Kakā Data Analysis Project provides valuable insights that support the continued success and expansion of this culturally significant initiative. Through data-driven recommendations, this project aims to ensure the long-term well-being of participants and their communities. 
-
-<br>
+*Built by [Dane Tipene](https://github.com/DataDaneHQ) · Analytics & Automation Engineer*
 
 ***License:*** *All rights reserved. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.*
